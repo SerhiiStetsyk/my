@@ -1,0 +1,22 @@
+{
+  "name": "nodetest",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server",
+    "start": "node server.js"
+  },
+  "dependencies" : {
+  "express": "^4.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ff"
+  },
+  "keywords": [
+    "ggg"
+  ],
+  "author": "ggg",
+  "license": "ISC"
+}
